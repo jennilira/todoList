@@ -1,3 +1,14 @@
+## Todo List Application
+hello is jenni here!! .
+This is a simple Todo List application built with React. It allows users to create, view, update, and delete tasks in their to-do list.
+
+## Features
+Add a new task
+Edit the title of an existing task
+Delete a task from the list
+
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
